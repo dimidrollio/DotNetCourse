@@ -1,0 +1,9 @@
+﻿@model List<string>?
+@if(Model != null)
+{
+	foreach (string str in Model)
+	{
+		<p class="m-"><pre>@str</pre></p>
+	}
+}
+<a asp-action="create" class="btn btn-outline-dark rounded-0 p-2 pt-1">Create</a>
