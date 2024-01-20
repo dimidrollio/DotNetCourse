@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/DotNetCourse/Migrations/20240120161709_Initial.cs
+/DotNetCourse/Migrations/ApplicationDbContextModelSnapshot.cs
+/DotNetCourse/appsettings.json
+/DotNetCourse/appsettings.Development.json
